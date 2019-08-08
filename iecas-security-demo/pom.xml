@@ -12,6 +12,13 @@
     <artifactId>iecas-security-demo</artifactId>
 
     <dependencies>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+
+
         <dependency>
             <groupId>cn.iecas.security</groupId>
             <artifactId>iecas-security-browser</artifactId>
